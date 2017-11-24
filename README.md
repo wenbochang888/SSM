@@ -20,3 +20,4 @@ Spring + SpringMVC + Mybatis的一个整合HelloWorld
 
 从student数据库中取出数据然后在页面中展示。
 
+![Image text](https://github.com/wenbochang888/SSM/blob/master/img/HelloWorld.png)
