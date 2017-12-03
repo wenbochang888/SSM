@@ -31,6 +31,7 @@ Spring + SpringMVC + Mybatis的一个整合HelloWorld
 说实话，我现在还没有感受到ssm框架的好处。
 
 最好的好处就是**结构特别的清晰，前端jsp发送请求给springmvc控制的controller层，
+
 然后controoler层在调用service层，service与数据库DAO层交互，数据库sql用MyBatis实现**
 
 这是我发现的唯一好处，其他我到现在还没有感受出来，慢慢来吧。
