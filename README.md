@@ -35,3 +35,11 @@ Spring + SpringMVC + Mybatis的一个整合HelloWorld
 然后controoler层在调用service层，service与数据库DAO层交互，数据库sql用MyBatis实现**
 
 这是我发现的唯一好处，其他我到现在还没有感受出来，慢慢来吧。
+
+![Image text](https://github.com/wenbochang888/SSM/blob/master/img/index.png)
+
+![Image text](https://github.com/wenbochang888/SSM/blob/master/img/ShowAllStudent.png)
+
+![Image text](https://github.com/wenbochang888/SSM/blob/master/img/AddStudent.png)
+
+![Image text](https://github.com/wenbochang888/SSM/blob/master/img/DeleteStudent.png)
